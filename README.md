@@ -1,1 +1,0 @@
-# Lista_Exercicios_PedroGomes
