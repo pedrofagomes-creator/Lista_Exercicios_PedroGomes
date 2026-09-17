@@ -25,7 +25,8 @@ Senha 1\
 Senha 2\
 Senha 3\\
 
-ex05:\Escolha um genero:\
+ex05:\
+Escolha um genero:\
 1 - Acao\
 2 - Comedia\
 3 - Terror\
