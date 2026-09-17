@@ -37,3 +37,18 @@ ex06:\
 Defina N:2\
 3\
 3\
+
+ex07:\
+VERDE - 30 segundos\
+AMARELO - 5 segundos\
+VERMELHO - 25 segundos\\
+
+ex08:\
+Escolha um numero entre 1 e 100: 50\
+Errado, o numero e menor\
+Escolha outro numero: 25\
+Errado, o numero e maior\
+Escolha outro numero: 40\
+Errado, o numero e maior\
+Escolha outro numero: 42\
+Correto! O numero era 42\
