@@ -51,4 +51,16 @@ Errado, o numero e maior\
 Escolha outro numero: 40\
 Errado, o numero e maior\
 Escolha outro numero: 42\
-Correto! O numero era 42\
+Correto! O numero era 42\\
+
+ex09:\
+* * * * *\
+* * * * *\
+* * * * *\
+* * * * *\
+* * * * *\\
+
+ex10:\
+Digite o valor do troco em centavos: 38\
+Menor numero de moedas: 5\\
+
