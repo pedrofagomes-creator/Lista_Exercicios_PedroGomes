@@ -54,11 +54,11 @@ Escolha outro numero: 42\
 Correto! O numero era 42\\
 
 ex09:\
-* * * * *\
-* * * * *\
-* * * * *\
-* * * * *\
-* * * * *\\
+\* * * * *\
+\* * * * *\
+\* * * * *\
+\* * * * *\
+\* * * * *\\
 
 ex10:\
 Digite o valor do troco em centavos: 38\
