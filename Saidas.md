@@ -139,3 +139,11 @@ ex:25\
 O programa lê um número, calcula o dobro dele e mostra o resultado, se o usuário digitar 10 a saída será:\
 Digite um numero: 10\
 O dobro de 10 eh 20
+
+ex:26\
+Dar nomes significativos deixa o código mais fácil de entender, corrigir e manter\
+exemplos:\
+int x;
+float y;
+x = 10;
+y = x * 2;
