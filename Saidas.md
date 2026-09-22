@@ -64,3 +64,29 @@ ex10:\
 Digite o valor do troco em centavos: 38\
 Menor numero de moedas: 5
 
+ex11:\
+Digite o valor em reais: 200\
+Digite a taxa de cambio: 5\
+Valor em dolares: 40.00
+
+ex:12\
+Digite seu peso (kg): 70\
+Digite sua altura (m): 1.75\
+IMC: 22.86\
+Peso normal
+
+ex:13\
+Digite tres numeros(com espaco): 1 2 3\
+Os numeros estao em ordem crescente.
+
+ex:14\
+Digite A (0 ou 1): 1\
+Digite B (0 ou 1): 1\
+A && B = 1\
+A || B = 1\
+!A = 0\
+A ^ B = 0
+
+ex:15\
+Digite um numero inteiro: 2\
+O numero e par.\

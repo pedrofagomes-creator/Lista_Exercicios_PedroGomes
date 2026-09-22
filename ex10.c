@@ -1,5 +1,11 @@
-/*10. Troco com moedas
-Decomposição
+
+/* 
+* Aluno: Pedro Gomes
+* Exercicio: 10
+* Descricao: troco com moedas.
+* Data: 21/09/2026
+*/
+/*Decomposição
 Receber o valor do troco.
 Verificar quantas moedas de 25 centavos podem ser usadas.
 Depois verificar moedas de 10 centavos.
@@ -8,13 +14,7 @@ Por último, usar moedas de 1 centavo.
 Contar o total de moedas utilizadas.
 Estratégia gulosa
 
-O algoritmo guloso sempre escolhe a maior moeda possível naquele momento.
-
-Por exemplo, para um troco de 41 centavos:
-
-25 + 10 + 5 + 1 = 41
-
-Total: 4 moedas.*/
+O algoritmo guloso sempre escolhe a maior moeda possível naquele momento.*/
 
 #include <stdio.h> 
 
