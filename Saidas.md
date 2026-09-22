@@ -206,3 +206,37 @@ Explicação: as duas variáveis possuem o mesmo nome (x), mas pertencem a escop
     Digite o primeiro numero: 15
     Digite o segundo numero: 2
     Resultado: 7.50
+
+**ex:31**
+
+    Digite seu nome completo: Pedro Gomes
+    Olá, Pedro Gomes
+    Seja bem-vindo!
+
+**ex:32**
+
+    Digite o primeiro numero: 2
+    Digite o segundo numero: 6
+    Antes da troca: x = 2, y = 6
+    Depois da troca: x = 6, y = 2
+
+**ex:33**
+
+    Digite a primeira nota: 5
+    Digite a segunda nota: 4
+    Digite a terceira nota: 3
+    Digite a quarta nota: 2
+    Media: 3.50
+
+**ex:34**
+
+    Digite o raio: 2
+    Area do circulo: 12.57
+
+**ex:35**
+
+    int: 4 bytes
+    float: 4 bytes
+    double: 8 bytes
+    char: 1 byte
+    ponteiro para int: 8 bytes
