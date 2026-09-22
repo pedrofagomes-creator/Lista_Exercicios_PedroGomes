@@ -240,3 +240,38 @@ Explicação: as duas variáveis possuem o mesmo nome (x), mas pertencem a escop
     double: 8 bytes
     char: 1 byte
     ponteiro para int: 8 bytes
+
+**ex:36**
+
+    Digite o nome do aluno: roberto
+    Digite a matricula: 25245433
+    Digite a nota 1: 2 
+    Digite a nota 2: 8
+    Digite a nota 3: 9
+
+    Aluno: roberto
+    Matricula: 25245433
+    Media: 6.33
+
+**ex:37**
+
+    Digite o valor de a: 1
+    Digite o valor de b: -5
+    Digite o valor de c: 6
+    Valor de x: 3.00
+
+**ex:38**
+
+    38
+    Maior de idade
+
+**ex:39**\
+o resultado da expressão é 12\
+saída: x = 12
+
+**ex:40**
+
+    Digite um numero: 67
+    Dobro: 134
+    Divisao por 2: 33
+
