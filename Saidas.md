@@ -297,3 +297,33 @@ Saída: 1
 
 **ex:45**\
 a = 6; b = 9; c = 14
+
+**ex:46**
+
+    Digite a temperatura em Fahrenheit: 50
+    Temperatura em Celsius: 10.00
+
+**ex:47**
+
+    Digite o salario: 2000
+    Novo salario: R$ 2200.00
+
+**ex:48**
+
+    Digite o valor de a: 1
+    Digite o valor de b: -5
+    Digite o valor de c: 6
+    x1 = 3.00
+    x2 = 2.00
+
+**ex:49**
+
+    Digite a nota de 0 a 100: 50
+    Conceito F
+
+**ex:50**
+
+    Digite seu peso em kg: 70 
+    Digite sua altura em metros: 1.75
+    IMC: 22.86
+    Peso normal
