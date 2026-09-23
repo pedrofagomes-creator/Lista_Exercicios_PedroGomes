@@ -274,4 +274,26 @@ saída: x = 12
     Digite um numero: 67
     Dobro: 134
     Divisao por 2: 33
+    
+**ex:41**
 
+    Digite um caractere: A
+    Nao e uma letra minuscula.
+    
+**ex:42**
+
+    Digite os 9 primeiros digitos do CPF: 123456789
+    Primeiro digito verificador: 0
+
+**ex:43**
+
+    Digite o primeiro numero: 3
+    Digite a operacao (+, -, *, /): *
+    Digite o segundo numero: 6
+    Resultado: 18.00
+
+**ex:44**\
+Saída: 1
+
+**ex:45**\
+a = 6; b = 9; c = 14
