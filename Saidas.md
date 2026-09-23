@@ -333,6 +333,12 @@ a = 6; b = 9; c = 14
     Digite um numero de 1 a 7: 5
     Quinta-feira
 
+**ex:51**
+
+    Digite um numero de 1 a 7: 5
+    Quinta-feira
+
+
 **ex:52**
 
     Digite o primeiro numero: 3
