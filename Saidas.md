@@ -327,3 +327,44 @@ a = 6; b = 9; c = 14
     Digite sua altura em metros: 1.75
     IMC: 22.86
     Peso normal
+
+    **ex:51**
+
+    Digite um numero de 1 a 7: 5
+    Quinta-feira
+
+**ex:52**
+
+    Digite o primeiro numero: 3
+    Digite o segundo numero: 4
+    Digite o terceiro numero: 5
+    Ordem crescente: 3 4 5
+
+**ex:53**
+
+    Digite um ano: 2024
+    2024 e um ano bissexto.
+
+**ex:54**
+
+    Digite a primeira string: aaaaa 
+    Digite a segunda string: bbbbbb
+    As strings sao diferentes.
+
+**ex:55**
+
+    ===== MENU =====
+    1 - Soma
+    2 - Subtracao
+    3 - Multiplicacao
+    4 - Divisao
+    Escolha uma opcao: 4
+    Digite o primeiro numero: 34
+    Digite o segundo numero: 32
+    Resultado: 1.06
+
+**ex:56**
+
+    Digite o nome de usuario: admin
+    Digite a senha: 1234
+    Acesso concedido!
